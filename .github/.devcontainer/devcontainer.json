@@ -1,6 +1,6 @@
 {
-  "name": "ai-new-workflow-app-template-build",
-  "image": "ghcr.io/intel-agency/ai-new-workflow-app-template:main-latest",
+  "name": "convo-content-buddy-tango21-build",
+  "image": "ghcr.io/intel-agency/convo-content-buddy-tango21:main-latest",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
       "version": "20"
